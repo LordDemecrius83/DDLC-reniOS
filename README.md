@@ -13,7 +13,7 @@ If you just install the deb as iPA,you will need to paste dokifix.sh to /var/con
   
  iOS 8 below users can run this without running dokifix.sh
 
-Tested on iPhone 5,2(32bit) running iOS 6,8 and 10.3.4
+Tested on iPhone 5,2(32bit) running iOS 6,8.4.1 and 10.3.4
 Tested on iPad 2 with 9.3.5
 
 Supported Mods
@@ -24,4 +24,4 @@ Supported Mods
 
 installing this requires AppSync Unified which you can get on cydia.akemi.ai
   
-  Save Files are stored on /var/mobile/Documents/RenPy/(iOS 8 and above) or /var/mobile/Application/<uuid>/Documents/(iOS 6)
+Save Files are stored on /var/mobile/Documents/RenPy/(iOS 8 and above) or /var/mobile/Application/<uuid>/Documents/(iOS 6 and 7)

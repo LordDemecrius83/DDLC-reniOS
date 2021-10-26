@@ -3,6 +3,18 @@ DDLC on iOS using RenPy and reniOS support files
 
 Not working with iOS 13+ because of 32bit libraries on checkra1n,unc0ver and taurine
 --
+Confirmed Working on
+--
+1.iOS 6 - me
+
+2.iOS 8 - me
+
+3.iOS 9 - Some guy on discord,i Forgot his name(iPad 2) and me (iPhone 5)
+
+4.iOS 10 - me
+
+
+
 No-Jailbreak version is on the works
 --
 Compiled on Xcode 10.0, macOS 10.14

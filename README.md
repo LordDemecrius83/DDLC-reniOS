@@ -13,7 +13,7 @@ Tested on iOS 6.1.4(Coolbooter),8.4.1(etasonJB),9.3.5(Phoenix and CoolBooter) an
 
 iOS 8 below users can run this without running dokifix.sh
 
-Tested on iPhone 5,2(32bit) running iOS 6,8.4.1,9.3.5 and 10.3.4
+Tested on iPhone 5,2(32bit) running iOS 6.1.4,8.4.1,9.3.5 and 10.3.4
 Tested on iPad 2 with 9.3.5
 
 Supported Mods

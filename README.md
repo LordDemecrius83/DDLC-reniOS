@@ -9,7 +9,7 @@ Confirmed Working on
 
 2.iOS 8 - me
 
-3.iOS 9 - Some guy on discord,i Forgot his name(iPad 2) and me (iPhone 5)
+3.iOS 9 - Some guy on discord,I forgot his name(iPad 2) and me (iPhone 5)
 
 4.iOS 10 - me
 

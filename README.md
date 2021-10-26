@@ -24,13 +24,6 @@ Supported Mods
   
   -any other mod that doesn't require renpy 7.0+
   
-
-
-Installing this requires AppSync Unified which you can get on cydia.akemi.ai
---
-  
-Save Files are stored on /var/mobile/Documents/RenPy/(iOS 8 and above) or /var/mobile/Application/<uuid>/Documents/(iOS 6 and 7)
-
   Install Instructions
   --
   1.Install the ipa with Filza(iOS 9 and 10) or sideloadly(iOS 8)
@@ -43,3 +36,9 @@ Save Files are stored on /var/mobile/Documents/RenPy/(iOS 8 and above) or /var/m
   
   4.Run the game
   
+
+
+Installing this requires AppSync Unified which you can get on cydia.akemi.ai
+--
+  
+Save Files are stored on /var/mobile/Documents/RenPy/(iOS 8 and above) or /var/mobile/Application/<uuid>/Documents/(iOS 6 and 7)

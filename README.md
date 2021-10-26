@@ -17,16 +17,19 @@ Tested on iPhone 5,2(32bit) running iOS 6,8.4.1,9.3.5 and 10.3.4
 Tested on iPad 2 with 9.3.5
 
 Supported Mods
+--
   -Monika After Story
   -Purist Mod
   -any other mod that doesn't require renpy 7.0+
 
 
-installing this requires AppSync Unified which you can get on cydia.akemi.ai
+Installing this requires AppSync Unified which you can get on cydia.akemi.ai
+--
   
 Save Files are stored on /var/mobile/Documents/RenPy/(iOS 8 and above) or /var/mobile/Application/<uuid>/Documents/(iOS 6 and 7)
 
   Install Instructions
+  --
   1.Install the ipa with Filza(iOS 9 and 10) or sideloadly(iOS 8)
   
   ---These are only needed on iOS 9 and 10(and possibly 11 and 12 if it works there)

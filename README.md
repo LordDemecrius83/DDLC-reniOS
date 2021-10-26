@@ -28,8 +28,12 @@ Save Files are stored on /var/mobile/Documents/RenPy/(iOS 8 and above) or /var/m
 
   Install Instructions
   1.Install the ipa with Filza(iOS 9 and 10) or sideloadly(iOS 8)
+  
   ---These are only needed on iOS 9 and 10(and possibly 11 and 12 if it works there)
+  
   2.Go to /var/containers/Bundle/Application/DDLC(if on filza)/DDLC-iOS.app/base
+  
   3.tap on dokifix.sh then press continue
+  
   4.Run the game
   

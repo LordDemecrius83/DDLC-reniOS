@@ -1,19 +1,17 @@
 # DDLC-reniOS
 DDLC on iOS using RenPy and reniOS support files
 
-IDK if this works on iOS 13 or above these were only tested in iOS 6(in a coolbooter environment),iOS 8.4.1 with etasonJB and 10.3.4 with h3lix
+Not working with iOS 13+ because of 32bit libraries
 --
 Compiled on Xcode 10.0, macOS 10.14
 
 Built with Ren'Py 6.99.14.3
 
-Tested on iOS 6.1.4(Coolbooter),8.4.1(etasonJB),9.3.5(Phoenix) and 10.3.4(h3lix)
+Tested on iOS 6.1.4(Coolbooter),8.4.1(etasonJB),9.3.5(Phoenix and CoolBooter) and 10.3.4(h3lix)
 
-If you just install the deb as iPA,you will need to paste dokifix.sh to /var/containers/Bundle/Application/<insert uuid here>/DDLC.app/base then run with filza or MobileTerminal or NewTerm(only needed in iOS 9 and above)
-  
- iOS 8 below users can run this without running dokifix.sh
+iOS 8 below users can run this without running dokifix.sh
 
-Tested on iPhone 5,2(32bit) running iOS 6,8.4.1 and 10.3.4
+Tested on iPhone 5,2(32bit) running iOS 6,8.4.1,9.3.5 and 10.3.4
 Tested on iPad 2 with 9.3.5
 
 Supported Mods
@@ -25,3 +23,11 @@ Supported Mods
 installing this requires AppSync Unified which you can get on cydia.akemi.ai
   
 Save Files are stored on /var/mobile/Documents/RenPy/(iOS 8 and above) or /var/mobile/Application/<uuid>/Documents/(iOS 6 and 7)
+
+  Install Instructions
+  1.Install the ipa with Filza(iOS 9 and 10) or sideloadly(iOS 8)
+  ---These are only needed on iOS 9 and 10(and possibly 11 and 12 if it works there)
+  2.Go to /var/containers/Bundle/Application/DDLC(if on filza)/DDLC-iOS.app/base
+  3.tap on dokifix.sh then press continue
+  4.Run the game
+  

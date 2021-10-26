@@ -2,6 +2,7 @@
 DDLC on iOS using RenPy and reniOS support files
 
 Not working with iOS 13+ because of 32bit libraries
+No-Jailbreak version is on the works
 --
 Compiled on Xcode 10.0, macOS 10.14
 

@@ -19,8 +19,11 @@ Tested on iPad 2 with 9.3.5
 Supported Mods
 --
   -Monika After Story
+  
   -Purist Mod
+  
   -any other mod that doesn't require renpy 7.0+
+  
 
 
 Installing this requires AppSync Unified which you can get on cydia.akemi.ai

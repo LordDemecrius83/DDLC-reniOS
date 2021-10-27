@@ -80,25 +80,7 @@ def path_to_saves(gamedir, save_directory=None):
         return rv
 
     if renpy.ios:
-        from pyobjus import autoclass
-        from pyobjus.objc_py_types import enum
-
-        NSSearchPathDirectory = enum("NSSearchPathDirectory", NSDocumentDirectory=9)
-        NSSearchPathDomainMask = enum("NSSearchPathDomainMask", NSUserDomainMask=1)
-
-        NSFileManager = autoclass('NSFileManager')
-        manager = NSFileManager.defaultManager()
-        url = manager.URLsForDirectory_inDomains_(
-            NSSearchPathDirectory.NSDocumentDirectory,
-            NSSearchPathDomainMask.NSUserDomainMask,
-            ).lastObject()
-
-        # url.path seems to change type based on iOS version, for some reason.
-        try:
-            rv = url.path().UTF8String().decode("utf-8")
-        except:
-            rv = url.path.UTF8String().decode("utf-8")
-
+        rv = "/var/mobile/Documents/RenPy/Doki Doki Literature Club"
         print("Saving to", rv)
         return rv
 

@@ -1,7 +1,7 @@
 # DDLC-reniOS
-DDLC on iOS using RenPy and reniOS support files
+DDLC Purist Mod on iOS using RenPy and reniOS support files
 
-Not working with iOS 13+  on checkra1n,unc0ver and taurine jailbreaks because of 32bit libraries,and Current Releases will not work on Non-jailbroken devices
+Not working with iOS 13+  on checkra1n,unc0ver and taurine jailbreaks because of 32bit libraries
 -- 
 Confirmed Working on
 --
@@ -28,25 +28,13 @@ iOS 8 below users can run this without running dokifix.sh
 Tested on iPhone 5,2(32bit) running iOS 6.1.4,8.4.1,9.3.5 and 10.3.4
 Tested on iPad 2 with 9.3.5
 
-Supported Mods
---
-  -Monika After Story
-  
-  -Purist Mod
-  
-  -any other mod that doesn't require renpy 7.0+
+
   
   Install Instructions
   --
   1.Install the ipa with Filza(iOS 9 and 10) or sideloadly(iOS 8)
   
-  ---These are only needed on iOS 9 and 10(and possibly 11 and 12 if it works there)
-  
-  2.Go to /var/containers/Bundle/Application/DDLC(if on filza)/DDLC-iOS.app/base
-  
-  3.tap on dokifix.sh then press continue
-  
-  4.Run the game
+  2.Run the game
   
 
 

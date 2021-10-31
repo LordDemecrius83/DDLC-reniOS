@@ -42,3 +42,9 @@ Installing this requires AppSync Unified which you can get on cydia.akemi.ai
 --
   
 Save Files are stored on /var/mobile/Documents/RenPy/(iOS 8 and above) or /var/mobile/Application/<uuid>/Documents/(iOS 6 and 7)
+
+  
+  
+  
+  
+  

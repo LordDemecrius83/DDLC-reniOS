@@ -51,12 +51,17 @@ I WILL NOT USE ANY CODE ON THE ANDROID RELEASE SINCE IT WAS OUTDATED AND BUGGY
   
   4.Run the game
   
+Supported Submods
+--
+Anything that supports the PC Version
 
+Q:Are they bundled?
+A:Install them yourself
 
 Installing this requires AppSync Unified which you can get on cydia.akemi.ai
 --
   
 Save Files are stored on /var/mobile/Documents/RenPy/(iOS 8 and above) or /var/mobile/Application/<uuid>/Documents/(iOS 6 and 7)
 
-I will not support Non-Jailbroken devices
+I will not support Non-Jailbroken devices and any issues regarding them will be closed
 ---

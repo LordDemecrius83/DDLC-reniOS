@@ -1,5 +1,5 @@
-# DDLC-reniOS
-DDLC on iOS using RenPy and reniOS support files
+# Monika After Story-reniOS
+Monika After Story on iOS using RenPy and reniOS support files
 
 Not working with iOS 13+  on checkra1n,unc0ver and taurine jailbreaks because of 32bit libraries,and Current Releases will not work on Non-jailbroken devices
 -- 
@@ -13,7 +13,8 @@ Confirmed Working on
 
 4.iOS 10 - me
 
-
+NOTE:This release is an unofficial port and not supported by the official devs,so for fuck's sake use this github's issues tab instead of the official MAS discord's #tech-support channel
+--
 
 ~~No-Jailbreak version is on the works~~
 --

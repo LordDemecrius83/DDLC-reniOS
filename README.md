@@ -36,7 +36,7 @@ Bugs
 
 3.No means of viewing affection for now(Android code is buggy)
 
-I WILL NOT USE ANY CODE ON THE ANDROID RELEASE SINCE IT WAS OUTDATED AND BUGGY
+I WILL NOT USE ANY CODE FROM THE ANDROID PORT SINCE IT WAS OUTDATED AND BUGGY
 --
 
   Install Instructions

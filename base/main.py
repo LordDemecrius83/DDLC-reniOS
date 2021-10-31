@@ -80,7 +80,7 @@ def path_to_saves(gamedir, save_directory=None):
         return rv
 
     if renpy.ios:
-        rv = "/var/mobile/Documents/RenPy/Doki Doki Literature Club"
+        rv = "/var/mobile/Documents/RenPy/Monika After Story"
         print("Saving to", rv)
         return rv
 

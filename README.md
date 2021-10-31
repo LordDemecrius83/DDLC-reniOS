@@ -31,8 +31,10 @@ Tested on iPad 2 with 9.3.5
 Bugs
 --
 1.Chess(will not use any code from android because it will make this buggy)
+
 2.piano(will not use any code from android because it will make this buggy)
-3.No means of viewing affection for now
+
+3.No means of viewing affection for now(Android code is buggy)
 
 I WILL NOT USE ANY CODE ON THE ANDROID RELEASE SINCE IT WAS OUTDATED AND BUGGY
 --

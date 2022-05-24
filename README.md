@@ -1,4 +1,8 @@
+#DISCONTINUED
+
+
 # DDLC-reniOS
+
 DDLC on iOS using RenPy and reniOS support files
 
 Not working with iOS 13+  on checkra1n,unc0ver and taurine jailbreaks because of 32bit libraries,and Current Releases will not work on Non-jailbroken devices
